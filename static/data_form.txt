@@ -1,0 +1,1 @@
+name:Some name|surname:asdasdsa|email:bobo@email.com|password:12345678|date:21-10-2020|age:0|auto:on|
